@@ -11,12 +11,12 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Open your Command Line Interface  
 - [x] Setting up your Username and Email  
 - [x] Setting up your Authentication  
-- [x] Forking a Repository  
-- [x] Cloning a Repository  
-- [x] Making Changes to the Repository  
-- [x] Commiting Changes Locally  
-- [x] Moving Changes to GitHub   
-- [x] Standard Work Flow
+- [X] Forking a Repository  
+- [X] Cloning a Repository  
+- [X] Making Changes to the Repository  
+- [X] Committing Changes Locally  
+- [X] Moving Changes to GitHub   
+- [X] Standard Work FlWO
 
 ---
 
